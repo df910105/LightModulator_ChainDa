@@ -1,4 +1,4 @@
-# LightModulator for ChainDa
+# Light Modulator for ChainDa
 
 	荃達科技調光器通訊測試小工具
   
